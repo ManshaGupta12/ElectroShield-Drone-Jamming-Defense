@@ -46,8 +46,8 @@ Electro Shield is an advanced system designed to detect, prevent, and mitigate d
 ## Let’s Connect! 🤝  
 Feel free to contribute or reach out for collaborations to make drone security smarter and safer!  
 
-linkedin.com/in/mansha-gupta-3b152427b
+### Team Members:  
+- [Mansha Gupta](https://linkedin.com/in/mansha-gupta-3b152427b)  
+- [Richmillan Routray](https://linkedin.com/in/richmillan-routray-31398732b)  
+- [Sk Abdul Sajeed](https://linkedin.com/in/sk-abdul-sajeed-231187223)  
 
-linkedin.com/in/richmillan-routray-31398732b
-
-linkedin.com/in/sk-abdul-sajeed-231187223
