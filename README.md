@@ -32,9 +32,23 @@ Electro Shield is an advanced system designed to detect, prevent, and mitigate d
 ---
 
 ## Challenges Faced 🚧  
-- Designing a lightweight system compatible with diverse drone models.  
-- Ensuring seamless real-time adaptability to various jamming techniques.  
-- Balancing scalability and energy efficiency with high performance.  
+Building this project required overcoming several technical hurdles, including:  
+
+1. **Real-Time Jamming Detection**:  
+   Implementing the SRD (Signal Recognition Device) system to accurately differentiate between genuine signals and jamming attempts in real-time.  
+
+2. **Adaptive Frequency Hopping**:  
+   Developing a robust mechanism for seamless frequency switching to avoid jamming without disrupting communication.  
+
+3. **Emergency Response Efficiency**:  
+   Ensuring the Neural Reflex System activates appropriate fail-safe maneuvers within milliseconds, even under unpredictable jamming conditions.  
+
+4. **Swarm Communication Coordination**:  
+   Designing a reliable communication protocol among drones to maintain operational integrity during jammer countermeasures.  
+
+5. **Resource Optimization**:  
+   Balancing energy efficiency with high-performance requirements for continuous operation in diverse scenarios.  
+
 
 ---
 
